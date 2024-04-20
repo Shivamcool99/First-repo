@@ -1,7 +1,4 @@
+ing in hindi 
 # First-repository
- hy everyone its my first time experience on github
- this is very good platorm 
- because you dont  worry about 
- ,anytype of code accepted here, 
- its very nice platform for storing your files. 
- awesome !
+hello everyone, 
+its my first time experience on github ,it helps to store any type of file as well as code , that is very nice platform for storing your files. awesome !
